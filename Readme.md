@@ -30,3 +30,5 @@ Routes are configured in `src/routes/index.ts` and represent the entry points fo
 Modules are where you should configure the logic behind your routes.
 
 ## Testing
+
+Run `yarn test`
