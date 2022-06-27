@@ -12,7 +12,7 @@ Run `yarn`
 
 ### Generate .env file
 
-Run `yarn generate-dotenv`
+Run `yarn generate-dot-env`
 
 ### Start the service
 
