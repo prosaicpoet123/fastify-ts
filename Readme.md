@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A boilerplate for a REST API using (Fastify)[https://www.fastify.io/].
+A boilerplate for a REST API using [Fastify](https://www.fastify.io/).
 
 ## Getting Started
 
