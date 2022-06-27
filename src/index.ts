@@ -19,7 +19,7 @@ server.register(routes);
 const start = async () => {
   try {
     const port = process.env.PORT ? parseInt(process.env.PORT) : 3000;
-    await server.listen({ port });
+    await server.listen({ port, host: '0.0.0.0' });
     console.log(`🚀 Server ready at http://localhost:${port}`);
   } catch (err) {
     console.log('[ERROR]', err);
